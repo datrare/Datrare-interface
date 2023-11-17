@@ -1,0 +1,146 @@
+/* Card container */
+
+.collection-header {
+   /* box-shadow: var(--box-shadow); */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.collection-header .card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Style the Image */
+.collection-header .card img {
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 50%; /* Add border-radius property to make the image round */
+}
+
+
+
+.collection-header .card .info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1; /* Add flex property to take up remaining space */
+}
+
+/* Style the header */
+.collection-header .card h1 {
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: var(--text-color);
+}
+
+
+/* Style the verified icon */
+.collection-header .verified {
+    margin-left: 10px;
+}
+
+
+.collection-header .heart-icon {
+    /* color: var(--secondary-color); */
+    color: #f00;
+    cursor: pointer;
+    transition: scale 0.2s ease;
+}
+
+.collection-header .heart-icon:hover {
+    scale: 1.2;
+}
+
+/* Style the social media links */
+
+.card .info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.collection-header .card .info-container p {
+    font-weight: bold;
+}
+
+.collection-header .card .info-container div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.collection-header .card .info-container a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: var(--text-color-dark);
+    margin: 0 10px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #1DA1F2;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.2s ease-in-out;
+    box-sizing: border-box;
+}
+
+.collection-header .info-container a:hover {
+    background-color: var(--background-color-light);
+    color: #1DA1F2;
+    outline: 2px solid #1DA1F2;
+}
+
+/* Style the social media icons */
+.collection-header .info-container a svg {
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+
+.vote-button {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .vote-button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .vote-button.d {
+    background-color: #f44336;
+  }
+  
+  .vote-button.d:hover {
+    background-color: #da190b;
+  }
+  
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+    .collection-header .card {
+        flex-direction: column;
+    }
+}

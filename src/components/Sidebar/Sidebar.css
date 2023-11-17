@@ -1,0 +1,63 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: -500px;
+    width: 500px;
+    height: 100%;
+    background-color: var(--background-color);
+    transition: all 0.3s ease-in-out;
+    z-index: 100;
+  }
+  
+  .sidebar.dark {
+    color: var(--dark-text-color);
+  }
+  
+  .sidebar.light {
+    color: var(--light-text-color);
+  }
+  
+  .sidebar.open {
+    right: 0;
+  }
+  
+  .sidebar-section {
+    padding: 20px;
+  }
+  
+  .sidebar-section:first-child {
+    border-bottom: 1px solid var(--border-color);
+  }
+  
+  .sidebar-section h2 {
+    margin-top: 0;
+  }
+  
+  .sidebar-section h3 {
+    margin: 10px 0;
+  }
+  
+  .attribute-wrapper {
+    margin-top: 20px;
+  }
+  
+  .progress-bar {
+    display: flex;
+    align-items: center;
+    height: 20px;
+    border: 1px solid var(--border-color);
+  }
+  
+  .progress-bar-fill {
+    height: 100%;
+    background-color: var(--primary-color);
+  }
+  
+  .progress-bar-label {
+    margin-left: 10px;
+  }
+  
+  .progress-bar-score {
+    margin-left: auto;
+  }
+  

@@ -1,0 +1,27 @@
+[
+  {
+    "chain": "core",
+    "collection_id": 1,
+    "collection_name": "Mutant Ape Yacht Core",
+    "description": "Mutant Ape Yacht Core is a 10K derivative collection of the original Mutant Ape Yacht Club roaming to CORE DAO",
+    "url": "/Mutantcore",
+    "logo": "/images/logo_bg.png"
+  },
+  {
+    "chain": "core",
+    "collection_id": 2,
+    "collection_name": "Moondogs",
+    "description": "You can't stop us woof, The dogs take over is coming...",
+    "url": "/Moondogs",
+    "logo": "https://pbs.twimg.com/profile_images/1617482035026866176/8v3vA89X_400x400.jpg"
+  },
+  {
+    "chain": "core",
+    "collection_id": 3,
+    "collection_name": "Kyudo Archer",
+    "description": "Kyudo is a reknown ancient archery town whereby the most famous in bow forgery. In Kyudo, the population of the Female Archer is lesser than Male Archer, therefore in order for the Male Archer to woo the Female Archer, he will making fancy BOW for the courtship. Choose an Archer’s gender, courtship your counterpart by making a unique BOW as a symbol of Love and present it. A Unique Stake-to-Earn NFT as well as DAO are built on Core Chain.",
+    "url": "/KyudoArcher",
+    "logo": "https://nftstorage.link/ipfs/bafkreicwu3kl6eahosf4qe7iwykkcx6334uidaeynpxqhuahwio3tplq44"
+  }
+  
+]

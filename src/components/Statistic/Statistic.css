@@ -1,0 +1,77 @@
+/* Statistic.css */
+
+/* default styles */
+
+.statistic-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #38383f;
+    border-radius: 20px;
+    width: 45%;
+    margin: 0 auto;
+    padding: 0 2px;
+  }
+  
+  .loading {
+    color: #999;
+  }
+  
+  .error {
+    color: #ff6347;
+  }
+  
+  .statistic-values {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .statistic-value {
+    text-align: center;
+    margin: 0 10px;
+  }
+  
+  .statistic-number {
+    font-size: 28px;
+    font-weight: 700;
+    color: #d4c7c7;
+    margin: 0;
+  }
+  
+  .statistic-text {
+    font-size: 14px;
+    color: #f2e8e8;
+    margin: 0;
+  }
+  
+  .statistic-value:first-child {
+    margin-right: 30px;
+  }
+
+  .icon-container {
+    margin-right: 10px; /* Adjust this value to control the space between the icon and the number */
+  }
+  
+  /* styles for screens smaller than 768px (mobile) */
+  
+  @media (max-width: 768px) {
+    .statistic-box {
+      flex-direction: column;
+      width: 80%;
+    }
+  
+    .statistic-value:first-child {
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+  
+    .statistic-number {
+      font-size: 20px;
+    }
+  
+    .statistic-text {
+      font-size: 12px;
+    }
+  }
+  

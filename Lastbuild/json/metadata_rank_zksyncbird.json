@@ -1,0 +1,5502 @@
+[
+    {
+        "id": "32",
+        "name": "zkSync Birds #32",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0032.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Green Hair",
+                "scores": 1000.0,
+                "Trait Count": 1
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cyclop",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 32,
+        "DatRare": "zksyncbird",
+        "scores": 1298.2246699029013,
+        "rank": 1
+    },
+    {
+        "id": "62",
+        "name": "zkSync Birds #62",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0062.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Hair",
+                "scores": 1000.0,
+                "Trait Count": 1
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 62,
+        "DatRare": "zksyncbird",
+        "scores": 1289.935595538312,
+        "rank": 2
+    },
+    {
+        "id": "23",
+        "name": "zkSync Birds #23",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0023.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Mohawk",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Blue",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 23,
+        "DatRare": "zksyncbird",
+        "scores": 1062.0822890559734,
+        "rank": 3
+    },
+    {
+        "id": "96",
+        "name": "zkSync Birds #96",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0096.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Pink Headset",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Blue",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 96,
+        "DatRare": "zksyncbird",
+        "scores": 1050.189576505366,
+        "rank": 4
+    },
+    {
+        "id": "76",
+        "name": "zkSync Birds #76",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0076.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Cap",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "White Shades",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Golden",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 76,
+        "DatRare": "zksyncbird",
+        "scores": 919.172932330827,
+        "rank": 5
+    },
+    {
+        "id": "26",
+        "name": "zkSync Birds #26",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0026.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Orange Bufoon",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 26,
+        "DatRare": "zksyncbird",
+        "scores": 877.041730670763,
+        "rank": 6
+    },
+    {
+        "id": "37",
+        "name": "zkSync Birds #37",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0037.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Crown",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 37,
+        "DatRare": "zksyncbird",
+        "scores": 842.8536964827288,
+        "rank": 7
+    },
+    {
+        "id": "88",
+        "name": "zkSync Birds #88",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0088.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Orange Bufoon",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cyclop",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 88,
+        "DatRare": "zksyncbird",
+        "scores": 827.4644359847726,
+        "rank": 8
+    },
+    {
+        "id": "90",
+        "name": "zkSync Birds #90",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0090.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Brown Cowboy",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 90,
+        "DatRare": "zksyncbird",
+        "scores": 823.7623043115034,
+        "rank": 9
+    },
+    {
+        "id": "73",
+        "name": "zkSync Birds #73",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0073.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Astronauts",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 73,
+        "DatRare": "zksyncbird",
+        "scores": 812.2860915730186,
+        "rank": 10
+    },
+    {
+        "id": "75",
+        "name": "zkSync Birds #75",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0075.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Brown Cowboy",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 75,
+        "DatRare": "zksyncbird",
+        "scores": 807.8892884384875,
+        "rank": 11
+    },
+    {
+        "id": "64",
+        "name": "zkSync Birds #64",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0064.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Cap",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 64,
+        "DatRare": "zksyncbird",
+        "scores": 801.7658991020252,
+        "rank": 12
+    },
+    {
+        "id": "60",
+        "name": "zkSync Birds #60",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0060.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Astronauts",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 60,
+        "DatRare": "zksyncbird",
+        "scores": 799.2269285138555,
+        "rank": 13
+    },
+    {
+        "id": "3",
+        "name": "zkSync Birds #3",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0003.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Crown",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 3,
+        "DatRare": "zksyncbird",
+        "scores": 792.1898757102123,
+        "rank": 14
+    },
+    {
+        "id": "65",
+        "name": "zkSync Birds #65",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0065.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Mohawk",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 65,
+        "DatRare": "zksyncbird",
+        "scores": 788.7271943299107,
+        "rank": 15
+    },
+    {
+        "id": "15",
+        "name": "zkSync Birds #15",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0015.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Pink Headset",
+                "scores": 500.0,
+                "Trait Count": 2
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 15,
+        "DatRare": "zksyncbird",
+        "scores": 784.8123653615644,
+        "rank": 16
+    },
+    {
+        "id": "54",
+        "name": "zkSync Birds #54",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0054.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Headset",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "White",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 54,
+        "DatRare": "zksyncbird",
+        "scores": 768.1560592850915,
+        "rank": 17
+    },
+    {
+        "id": "78",
+        "name": "zkSync Birds #78",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0078.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Mohawk",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Cyan",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 78,
+        "DatRare": "zksyncbird",
+        "scores": 767.6981838272161,
+        "rank": 18
+    },
+    {
+        "id": "93",
+        "name": "zkSync Birds #93",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0093.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Mohawk",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 93,
+        "DatRare": "zksyncbird",
+        "scores": 745.1762613052936,
+        "rank": 19
+    },
+    {
+        "id": "11",
+        "name": "zkSync Birds #11",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0011.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Mohawk",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Golden",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 11,
+        "DatRare": "zksyncbird",
+        "scores": 739.9452156031103,
+        "rank": 20
+    },
+    {
+        "id": "70",
+        "name": "zkSync Birds #70",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0070.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Orange Cap",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "White",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 70,
+        "DatRare": "zksyncbird",
+        "scores": 727.5062656641604,
+        "rank": 21
+    },
+    {
+        "id": "43",
+        "name": "zkSync Birds #43",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0043.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Blue",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 43,
+        "DatRare": "zksyncbird",
+        "scores": 709.1489986226828,
+        "rank": 22
+    },
+    {
+        "id": "87",
+        "name": "zkSync Birds #87",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0087.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Headset",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Yellow",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 87,
+        "DatRare": "zksyncbird",
+        "scores": 694.2425853716177,
+        "rank": 23
+    },
+    {
+        "id": "55",
+        "name": "zkSync Birds #55",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0055.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Orange Cap",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 55,
+        "DatRare": "zksyncbird",
+        "scores": 679.5855065591909,
+        "rank": 24
+    },
+    {
+        "id": "2",
+        "name": "zkSync Birds #2",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0002.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Samurai Top",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 2,
+        "DatRare": "zksyncbird",
+        "scores": 669.5345875837867,
+        "rank": 25
+    },
+    {
+        "id": "25",
+        "name": "zkSync Birds #25",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0025.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Samurai Top",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 25,
+        "DatRare": "zksyncbird",
+        "scores": 663.9162932032201,
+        "rank": 26
+    },
+    {
+        "id": "38",
+        "name": "zkSync Birds #38",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0038.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Headset",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 38,
+        "DatRare": "zksyncbird",
+        "scores": 663.7480798771122,
+        "rank": 27
+    },
+    {
+        "id": "66",
+        "name": "zkSync Birds #66",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0066.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Orange Cap",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Golden",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 66,
+        "DatRare": "zksyncbird",
+        "scores": 662.557603686636,
+        "rank": 28
+    },
+    {
+        "id": "81",
+        "name": "zkSync Birds #81",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0081.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Mohawk",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 81,
+        "DatRare": "zksyncbird",
+        "scores": 652.4033859237226,
+        "rank": 29
+    },
+    {
+        "id": "17",
+        "name": "zkSync Birds #17",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0017.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Headset",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 17,
+        "DatRare": "zksyncbird",
+        "scores": 634.3176309958623,
+        "rank": 30
+    },
+    {
+        "id": "68",
+        "name": "zkSync Birds #68",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0068.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Red Hair",
+                "scores": 250.0,
+                "Trait Count": 4
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 68,
+        "DatRare": "zksyncbird",
+        "scores": 627.654893783926,
+        "rank": 31
+    },
+    {
+        "id": "10",
+        "name": "zkSync Birds #10",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0010.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Headset",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 10,
+        "DatRare": "zksyncbird",
+        "scores": 627.1875340525227,
+        "rank": 32
+    },
+    {
+        "id": "86",
+        "name": "zkSync Birds #86",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0086.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Mohawk",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 86,
+        "DatRare": "zksyncbird",
+        "scores": 626.1173767752715,
+        "rank": 33
+    },
+    {
+        "id": "13",
+        "name": "zkSync Birds #13",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0013.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Red Hair",
+                "scores": 250.0,
+                "Trait Count": 4
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 13,
+        "DatRare": "zksyncbird",
+        "scores": 621.193134351029,
+        "rank": 34
+    },
+    {
+        "id": "36",
+        "name": "zkSync Birds #36",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0036.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Mohawk",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 36,
+        "DatRare": "zksyncbird",
+        "scores": 612.0525087307401,
+        "rank": 35
+    },
+    {
+        "id": "22",
+        "name": "zkSync Birds #22",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0022.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cyclop",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 22,
+        "DatRare": "zksyncbird",
+        "scores": 609.2341473920421,
+        "rank": 36
+    },
+    {
+        "id": "24",
+        "name": "zkSync Birds #24",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0024.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cyclop",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Golden",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 24,
+        "DatRare": "zksyncbird",
+        "scores": 604.2242703533026,
+        "rank": 37
+    },
+    {
+        "id": "74",
+        "name": "zkSync Birds #74",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0074.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Black Hair",
+                "scores": 250.0,
+                "Trait Count": 4
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 74,
+        "DatRare": "zksyncbird",
+        "scores": 603.4124695415018,
+        "rank": 38
+    },
+    {
+        "id": "100",
+        "name": "zkSync Birds #100",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0100.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Headset",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 100,
+        "DatRare": "zksyncbird",
+        "scores": 589.9331662489557,
+        "rank": 39
+    },
+    {
+        "id": "19",
+        "name": "zkSync Birds #19",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0019.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Aviatar Hat",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cyclop",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Yellow",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 19,
+        "DatRare": "zksyncbird",
+        "scores": 577.8353814644138,
+        "rank": 40
+    },
+    {
+        "id": "59",
+        "name": "zkSync Birds #59",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0059.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "No-Top",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Golden",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 59,
+        "DatRare": "zksyncbird",
+        "scores": 577.6798688089011,
+        "rank": 41
+    },
+    {
+        "id": "94",
+        "name": "zkSync Birds #94",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0094.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Red Hair",
+                "scores": 250.0,
+                "Trait Count": 4
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 94,
+        "DatRare": "zksyncbird",
+        "scores": 572.7717652165869,
+        "rank": 42
+    },
+    {
+        "id": "97",
+        "name": "zkSync Birds #97",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0097.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Black Hair",
+                "scores": 250.0,
+                "Trait Count": 4
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Cyan",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 97,
+        "DatRare": "zksyncbird",
+        "scores": 572.6035518904788,
+        "rank": 43
+    },
+    {
+        "id": "69",
+        "name": "zkSync Birds #69",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0069.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Black Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "White Shades",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Cyan",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 69,
+        "DatRare": "zksyncbird",
+        "scores": 564.2702185571454,
+        "rank": 44
+    },
+    {
+        "id": "83",
+        "name": "zkSync Birds #83",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0083.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "White",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 83,
+        "DatRare": "zksyncbird",
+        "scores": 560.623036280931,
+        "rank": 45
+    },
+    {
+        "id": "8",
+        "name": "zkSync Birds #8",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0008.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Samurai Top",
+                "scores": 333.33333333333337,
+                "Trait Count": 3
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 8,
+        "DatRare": "zksyncbird",
+        "scores": 559.189582183603,
+        "rank": 46
+    },
+    {
+        "id": "49",
+        "name": "zkSync Birds #49",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0049.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "White Shades",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Yellow",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 49,
+        "DatRare": "zksyncbird",
+        "scores": 558.2354243644567,
+        "rank": 47
+    },
+    {
+        "id": "46",
+        "name": "zkSync Birds #46",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0046.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Black Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Cyan",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 46,
+        "DatRare": "zksyncbird",
+        "scores": 554.9514812672707,
+        "rank": 48
+    },
+    {
+        "id": "12",
+        "name": "zkSync Birds #12",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0012.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "No-Top",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "White",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 12,
+        "DatRare": "zksyncbird",
+        "scores": 552.4907699355916,
+        "rank": 49
+    },
+    {
+        "id": "99",
+        "name": "zkSync Birds #99",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0099.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Black Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy Eyes",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "White",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 99,
+        "DatRare": "zksyncbird",
+        "scores": 549.1727034596304,
+        "rank": 50
+    },
+    {
+        "id": "67",
+        "name": "zkSync Birds #67",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0067.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Black Hair",
+                "scores": 250.0,
+                "Trait Count": 4
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 67,
+        "DatRare": "zksyncbird",
+        "scores": 546.282372598162,
+        "rank": 51
+    },
+    {
+        "id": "14",
+        "name": "zkSync Birds #14",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0014.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Black Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 14,
+        "DatRare": "zksyncbird",
+        "scores": 540.41082096002,
+        "rank": 52
+    },
+    {
+        "id": "41",
+        "name": "zkSync Birds #41",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0041.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cyclop",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 41,
+        "DatRare": "zksyncbird",
+        "scores": 537.9544290834613,
+        "rank": 53
+    },
+    {
+        "id": "21",
+        "name": "zkSync Birds #21",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0021.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Hair",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 21,
+        "DatRare": "zksyncbird",
+        "scores": 537.6005037295361,
+        "rank": 54
+    },
+    {
+        "id": "28",
+        "name": "zkSync Birds #28",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0028.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 28,
+        "DatRare": "zksyncbird",
+        "scores": 534.3219504509826,
+        "rank": 55
+    },
+    {
+        "id": "16",
+        "name": "zkSync Birds #16",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0016.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Red Hair",
+                "scores": 250.0,
+                "Trait Count": 4
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 16,
+        "DatRare": "zksyncbird",
+        "scores": 533.4114271185209,
+        "rank": 56
+    },
+    {
+        "id": "20",
+        "name": "zkSync Birds #20",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0020.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Black Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Golden",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 20,
+        "DatRare": "zksyncbird",
+        "scores": 533.0007711586659,
+        "rank": 57
+    },
+    {
+        "id": "39",
+        "name": "zkSync Birds #39",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0039.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Cyan",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 39,
+        "DatRare": "zksyncbird",
+        "scores": 532.1092113961383,
+        "rank": 58
+    },
+    {
+        "id": "52",
+        "name": "zkSync Birds #52",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0052.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "No-Top",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "White Shades",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Golden",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 52,
+        "DatRare": "zksyncbird",
+        "scores": 528.9956582825853,
+        "rank": 59
+    },
+    {
+        "id": "45",
+        "name": "zkSync Birds #45",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0045.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 45,
+        "DatRare": "zksyncbird",
+        "scores": 526.5321271900219,
+        "rank": 60
+    },
+    {
+        "id": "95",
+        "name": "zkSync Birds #95",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0095.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Straight Black Hair",
+                "scores": 250.0,
+                "Trait Count": 4
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 95,
+        "DatRare": "zksyncbird",
+        "scores": 523.2246699029012,
+        "rank": 61
+    },
+    {
+        "id": "56",
+        "name": "zkSync Birds #56",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0056.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Yellow",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 56,
+        "DatRare": "zksyncbird",
+        "scores": 517.2317053896002,
+        "rank": 62
+    },
+    {
+        "id": "50",
+        "name": "zkSync Birds #50",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0050.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "White Shades",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "White",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 50,
+        "DatRare": "zksyncbird",
+        "scores": 512.7445259024206,
+        "rank": 63
+    },
+    {
+        "id": "1",
+        "name": "zkSync Birds #1",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0001.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Cyan",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 1,
+        "DatRare": "zksyncbird",
+        "scores": 506.5260226550549,
+        "rank": 64
+    },
+    {
+        "id": "6",
+        "name": "zkSync Birds #6",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0006.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Black Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "White",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 6,
+        "DatRare": "zksyncbird",
+        "scores": 505.46696041178217,
+        "rank": 65
+    },
+    {
+        "id": "82",
+        "name": "zkSync Birds #82",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0082.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "No-Top",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Yellow",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 82,
+        "DatRare": "zksyncbird",
+        "scores": 503.7663948954271,
+        "rank": 66
+    },
+    {
+        "id": "31",
+        "name": "zkSync Birds #31",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0031.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 31,
+        "DatRare": "zksyncbird",
+        "scores": 497.9179640469963,
+        "rank": 67
+    },
+    {
+        "id": "30",
+        "name": "zkSync Birds #30",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0030.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "White Shades",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Yellow",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 30,
+        "DatRare": "zksyncbird",
+        "scores": 496.39492568185267,
+        "rank": 68
+    },
+    {
+        "id": "48",
+        "name": "zkSync Birds #48",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0048.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cyclop",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "White",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 48,
+        "DatRare": "zksyncbird",
+        "scores": 496.39492568185267,
+        "rank": 69
+    },
+    {
+        "id": "18",
+        "name": "zkSync Birds #18",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0018.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Aviatar Hat",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 18,
+        "DatRare": "zksyncbird",
+        "scores": 494.63402094981046,
+        "rank": 70
+    },
+    {
+        "id": "71",
+        "name": "zkSync Birds #71",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0071.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "White Shades",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 71,
+        "DatRare": "zksyncbird",
+        "scores": 494.00714829407525,
+        "rank": 71
+    },
+    {
+        "id": "72",
+        "name": "zkSync Birds #72",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0072.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 72,
+        "DatRare": "zksyncbird",
+        "scores": 492.6217057796005,
+        "rank": 72
+    },
+    {
+        "id": "4",
+        "name": "zkSync Birds #4",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0004.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Hair",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 4,
+        "DatRare": "zksyncbird",
+        "scores": 488.94649257552487,
+        "rank": 73
+    },
+    {
+        "id": "51",
+        "name": "zkSync Birds #51",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0051.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "No-Top",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Cyan",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 51,
+        "DatRare": "zksyncbird",
+        "scores": 487.62186690879383,
+        "rank": 74
+    },
+    {
+        "id": "58",
+        "name": "zkSync Birds #58",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0058.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Sheriff",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cyclop",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Yellow",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 58,
+        "DatRare": "zksyncbird",
+        "scores": 485.2409145278415,
+        "rank": 75
+    },
+    {
+        "id": "42",
+        "name": "zkSync Birds #42",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0042.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 42,
+        "DatRare": "zksyncbird",
+        "scores": 484.9667481246429,
+        "rank": 76
+    },
+    {
+        "id": "47",
+        "name": "zkSync Birds #47",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0047.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "No-Top",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Yellow",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 47,
+        "DatRare": "zksyncbird",
+        "scores": 483.2354243644566,
+        "rank": 77
+    },
+    {
+        "id": "61",
+        "name": "zkSync Birds #61",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0061.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Hair",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 61,
+        "DatRare": "zksyncbird",
+        "scores": 482.7859896509783,
+        "rank": 78
+    },
+    {
+        "id": "77",
+        "name": "zkSync Birds #77",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0077.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "White Shades",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 77,
+        "DatRare": "zksyncbird",
+        "scores": 482.69087574007483,
+        "rank": 79
+    },
+    {
+        "id": "53",
+        "name": "zkSync Birds #53",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0053.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 53,
+        "DatRare": "zksyncbird",
+        "scores": 480.86113151902623,
+        "rank": 80
+    },
+    {
+        "id": "44",
+        "name": "zkSync Birds #44",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0044.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Aviatar Hat",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 44,
+        "DatRare": "zksyncbird",
+        "scores": 479.685358972286,
+        "rank": 81
+    },
+    {
+        "id": "33",
+        "name": "zkSync Birds #33",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0033.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Hair",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 33,
+        "DatRare": "zksyncbird",
+        "scores": 474.1030504188399,
+        "rank": 82
+    },
+    {
+        "id": "29",
+        "name": "zkSync Birds #29",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0029.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored Eyes",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Pink",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 29,
+        "DatRare": "zksyncbird",
+        "scores": 462.7016258595205,
+        "rank": 83
+    },
+    {
+        "id": "98",
+        "name": "zkSync Birds #98",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0098.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Moonfinity Gauntlet",
+                "scores": 62.5,
+                "Trait Count": 16
+            }
+        ],
+        "edition": 98,
+        "DatRare": "zksyncbird",
+        "scores": 462.56426322215793,
+        "rank": 84
+    },
+    {
+        "id": "40",
+        "name": "zkSync Birds #40",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0040.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Aviatar Hat",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 40,
+        "DatRare": "zksyncbird",
+        "scores": 460.15576575848223,
+        "rank": 85
+    },
+    {
+        "id": "5",
+        "name": "zkSync Birds #5",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0005.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Hair",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 5,
+        "DatRare": "zksyncbird",
+        "scores": 453.9010302168198,
+        "rank": 86
+    },
+    {
+        "id": "80",
+        "name": "zkSync Birds #80",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0080.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 80,
+        "DatRare": "zksyncbird",
+        "scores": 453.546223569107,
+        "rank": 87
+    },
+    {
+        "id": "63",
+        "name": "zkSync Birds #63",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0063.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Golden",
+                "scores": 125.0,
+                "Trait Count": 8
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 63,
+        "DatRare": "zksyncbird",
+        "scores": 453.2233706681924,
+        "rank": 88
+    },
+    {
+        "id": "27",
+        "name": "zkSync Birds #27",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0027.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "No-Top",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Cheerleader Pom",
+                "scores": 100.0,
+                "Trait Count": 10
+            }
+        ],
+        "edition": 27,
+        "DatRare": "zksyncbird",
+        "scores": 452.58435944934797,
+        "rank": 89
+    },
+    {
+        "id": "9",
+        "name": "zkSync Birds #9",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0009.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Hair",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 9,
+        "DatRare": "zksyncbird",
+        "scores": 447.08141321044536,
+        "rank": 90
+    },
+    {
+        "id": "35",
+        "name": "zkSync Birds #35",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0035.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Green Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 35,
+        "DatRare": "zksyncbird",
+        "scores": 444.7156503183668,
+        "rank": 91
+    },
+    {
+        "id": "85",
+        "name": "zkSync Birds #85",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0085.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Hero",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Aviatar Hat",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 85,
+        "DatRare": "zksyncbird",
+        "scores": 440.00281928974624,
+        "rank": 92
+    },
+    {
+        "id": "84",
+        "name": "zkSync Birds #84",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0084.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Blue Jacket",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 84,
+        "DatRare": "zksyncbird",
+        "scores": 429.43794556697776,
+        "rank": 93
+    },
+    {
+        "id": "7",
+        "name": "zkSync Birds #7",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0007.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Red Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Red Mohawk",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Geeky",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "Gold Chain",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 7,
+        "DatRare": "zksyncbird",
+        "scores": 427.0011707082645,
+        "rank": 94
+    },
+    {
+        "id": "34",
+        "name": "zkSync Birds #34",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0034.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Purple",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Boxing Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 34,
+        "DatRare": "zksyncbird",
+        "scores": 419.18153531056754,
+        "rank": 95
+    },
+    {
+        "id": "57",
+        "name": "zkSync Birds #57",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0057.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Aviatar Hat",
+                "scores": 166.66666666666669,
+                "Trait Count": 6
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 57,
+        "DatRare": "zksyncbird",
+        "scores": 417.84164712857404,
+        "rank": 96
+    },
+    {
+        "id": "79",
+        "name": "zkSync Birds #79",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0079.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Rainbow",
+                "scores": 66.66666666666667,
+                "Trait Count": 15
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blue Bufoon",
+                "scores": 142.85714285714283,
+                "Trait Count": 7
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Yellow Geeky",
+                "scores": 50.0,
+                "Trait Count": 20
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Red",
+                "scores": 90.90909090909092,
+                "Trait Count": 11
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 79,
+        "DatRare": "zksyncbird",
+        "scores": 408.75073803766503,
+        "rank": 97
+    },
+    {
+        "id": "89",
+        "name": "zkSync Birds #89",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0089.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Judo",
+                "scores": 111.11111111111111,
+                "Trait Count": 9
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Curious Eyes",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "Champion Gloves",
+                "scores": 55.55555555555556,
+                "Trait Count": 18
+            }
+        ],
+        "edition": 89,
+        "DatRare": "zksyncbird",
+        "scores": 395.9931295134661,
+        "rank": 98
+    },
+    {
+        "id": "91",
+        "name": "zkSync Birds #91",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0091.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "Green Jacket",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "Cigar",
+                "scores": 27.027027027027025,
+                "Trait Count": 37
+            },
+            {
+                "trait_type": "Body",
+                "value": "Green",
+                "scores": 71.42857142857142,
+                "Trait Count": 14
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 91,
+        "DatRare": "zksyncbird",
+        "scores": 341.88364748636394,
+        "rank": 99
+    },
+    {
+        "id": "92",
+        "name": "zkSync Birds #92",
+        "description": "zkSync Birds is an experimental NFT collection on zkSync Era.",
+        "image": "https://ipfs.io/ipfs/bafybeieqbvkpf7qd2wcvj2hm6imrtv4w3kxo7arwrdq6ubvb5wef4w5bkm/0092.jpg",
+        "external_url": "",
+        "attributes": [
+            {
+                "trait_type": "Jacket",
+                "value": "No Jacket",
+                "scores": 100.0,
+                "Trait Count": 10
+            },
+            {
+                "trait_type": "Top",
+                "value": "Blonde Hair",
+                "scores": 76.92307692307692,
+                "Trait Count": 13
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Black Shades",
+                "scores": 52.631578947368425,
+                "Trait Count": 19
+            },
+            {
+                "trait_type": "Gold Chain",
+                "value": "No-Gold Chain",
+                "scores": 16.129032258064516,
+                "Trait Count": 62
+            },
+            {
+                "trait_type": "Cigar",
+                "value": "No-Cigar",
+                "scores": 15.873015873015872,
+                "Trait Count": 63
+            },
+            {
+                "trait_type": "Body",
+                "value": "Black",
+                "scores": 43.47826086956522,
+                "Trait Count": 23
+            },
+            {
+                "trait_type": "Hands",
+                "value": "No-Hands",
+                "scores": 26.315789473684212,
+                "Trait Count": 38
+            }
+        ],
+        "edition": 92,
+        "DatRare": "zksyncbird",
+        "scores": 331.3507543447751,
+        "rank": 100
+    }
+]

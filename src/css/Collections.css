@@ -1,0 +1,59 @@
+.collections-wrapper {
+  text-align: center;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  padding: 10px 0;
+}
+
+.collections-title {
+  font-size: 36px;
+  margin: 20px 0;
+}
+
+.collections-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+
+.sort-by-container {
+  font-size: 16px;
+}
+
+.sort-by-container label {
+  display: inline-block;
+  margin-right: 10px;
+  color: var(--text-color);
+}
+
+.sort-by-container select {
+  display: inline-block;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+
+
+.sort-by-container select:focus {
+  outline: none;
+  box-shadow: var(--box-shadow);
+}
+
+.sort-by-container option {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+@media (min-width: 768px) {
+  .collections-wrapper {
+    padding-top: 90px;
+  }
+}

@@ -1,0 +1,28 @@
+.collection-description {
+    max-width: 685px;
+    margin: 10px auto;
+    padding: 0 20px;
+}
+
+.collection-description .description-heading {
+    color: var(--secondary-color);
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+.collection-description .description-text {
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+
+.collection-description .read-more {
+    color: var(--primary-color);
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 5px;
+  }
+
+.collection-description .read-more:hover {
+    text-decoration: underline;
+  }

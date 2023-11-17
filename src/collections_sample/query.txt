@@ -1,0 +1,17 @@
+
+create sql query to collections table
+
+
+id 15
+chain zksync
+collection_id 16
+collection_name zkDino
+description a groundbreaking NFT project that is set to transform the world of
+digital collectibles. zkDino is a sub-project of the DatRare ecosystem,
+and it offers an exclusive collection of rare, and original NFTs that
+are sure to catch the eye of any collector.a groundbreaking NFT project that is set to transform the world of
+digital collectibles. zkDino is a sub-project of the DatRare ecosystem,
+and it offers an exclusive collection of rare, and original NFTs that
+are sure to catch the eye of any collector.
+url /Zkdino
+logo https://firebasestorage.googleapis.com/v0/b/zkmarkets-mainnet/o/collections%2FzkDino%2Fzkdino%20(1).gif?alt=media&token=7c7ade60-c964-491c-b763-a344f457c75a
